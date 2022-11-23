@@ -1,0 +1,20 @@
+{
+    "@@locale": "en",
+    "coffeeAppBarTitle": "Good Coffee",
+    "@coffeeAppBarTitle": {
+        "description": "Text shown in the AppBar of the Coffee Page"
+    },
+    "viewFavoriteTitle": "View Favorite",
+    "@viewFavoriteTitle": {
+        "description": "Text Button to view Favorite Images"
+    },
+    "favoriteAppBarTitle": "Favorite",
+    "@favoriteAppBarTitle": {
+    	"description": "Text shown in the AppBar of the Favorite Page"
+    },
+    "singleimageAppBarTitle": "Image",
+    "@singleimageAppBarTitle": {
+    	"description": "Text shown in the AppBar of the image Page"
+    }
+
+}
