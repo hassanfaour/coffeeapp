@@ -4,10 +4,14 @@
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
 
-This a simple app build using MVVM pattern. 
+This a simple app build using MVVM pattern
+
 The bloc is acting is the View Model
-The repository is used to retreives data from rest API and from local Database
+
+The repository is used to retreives data from REST API and from local database
+
 Clear Seperation of concerns using Bloc to Bloc Communication
+
 Unit and Widget testing
 
 coffeeapp
