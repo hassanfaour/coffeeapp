@@ -14,8 +14,6 @@ Clear Seperation of concerns using Bloc to Bloc Communication
 
 Unit and Widget testing
 
-coffeeapp
-
 ---
 
 ## Getting Started 🚀
